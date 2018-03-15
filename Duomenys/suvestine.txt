@@ -1,0 +1,12 @@
+12 Aldevinas Siriūnaitis 2 0 0 2 1 75.0
+13 Darius Gricius 0 0 0 0 0 0.0
+2 Donatas Drimeikis 0 0 0 0 0 0.0
+4 Giedrius Purauskas 1 0 0 1 1 66.66666666666666
+10 Henrikas Paulauskas 1 1 0 3 0 100.0
+11 Justas Ališauskas 0 1 2 8 1 80.0
+9 Justinas Vitkus 2 3 1 11 2 80.0
+23 Mindaugas Lukonaitis 0 1 1 5 1 75.0
+3 Robertinas Vilimas 0 0 0 0 0 0.0
+26 Tomas Lukonaitis 0 0 0 0 0 0.0
+88 Tomas Samalionis 0 0 0 0 0 0.0
+33 Valdas Dobilas 0 1 1 5 1 75.0
