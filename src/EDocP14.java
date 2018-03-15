@@ -69,7 +69,7 @@ public class EDocP14 {
     }
 
     private static void pToFile(List<Filmas> filmai){
-        filmai = filmai.sortByGrade();
+        Collections.sort(filmai, Filmas.sortByGrade);
         Workbook book = new XSSFWorkbook();
         Sheet shet = book.createSheet("Vertinimai");
         Row ro ;
