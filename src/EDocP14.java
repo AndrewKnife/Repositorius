@@ -67,6 +67,7 @@ public class EDocP14 {
         pToConsole(filmai);
         pToFile(filmai);
         //labas
+        // Papulinti rteikia sita komentara
     }
 
     private static void pToFile(List<Filmas> filmai){
