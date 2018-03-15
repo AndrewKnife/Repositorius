@@ -66,6 +66,7 @@ public class EDocP14 {
         filmai = gautiVertinimus(filmai);
         pToConsole(filmai);
         pToFile(filmai);
+        //labas
     }
 
     private static void pToFile(List<Filmas> filmai){

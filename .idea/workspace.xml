@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d541cdf-2aa3-42f1-be32-eeeaf9ec3bd7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/EDocP14.java" afterPath="$PROJECT_DIR$/src/EDocP14.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -440,12 +439,12 @@
       <workItem from="1521011124207" duration="19783000" />
       <workItem from="1521031472087" duration="7329000" />
       <workItem from="1521097876194" duration="8188000" />
-      <workItem from="1521106500534" duration="1090000" />
+      <workItem from="1521106500534" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87567000" />
+    <option name="totallyTimeSpent" value="87716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
